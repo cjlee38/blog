@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Layered-Architecture on cjlee38</title>
-    <link>https://cjlee.io/blog/tags/layered-architecture/</link>
+    <link>https://blog.cjlee.io/tags/layered-architecture/</link>
     <description>Recent content in Layered-Architecture on cjlee38</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cjlee.io/blog/tags/layered-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cjlee.io/tags/layered-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>도메인과 레이어드 아키텍처</title>
-      <link>https://cjlee.io/blog/post/domain-layered-architecture/</link>
+      <link>https://blog.cjlee.io/post/domain-layered-architecture/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/post/domain-layered-architecture/</guid>
+      <guid>https://blog.cjlee.io/post/domain-layered-architecture/</guid>
       <description>약 8개월 간의 우아한테크코스를 진행하면서 배우고, 또 고민한 것 중 하나는, 소프트웨어의 책임을 어떻게 분리할 것인가에 관한 것이었다. 레벨 1 당시에는 콘솔 프로그래밍으로 도메인을 어떻게 구성할 것인지에 대해 다루었다. 레벨 2 로 넘어와서는 Spark Java 와 Spring을 추가하면서 도메인을 안정적으로 만드는 것이 왜 중요한지에 대해 학습하였고, 레벨 3에 이르러서는 JPA를 사용하면서 데이터베이스를 연결했을 때 겪는 문제점들을 ORM이 어떻게 풀어나가는지 배웠다.&#xA;정리하자면, 어떻게 하면 도메인을 잘 만들 수 있는지, 그리고 이 도메인을 외부 환경으로부터 어떻게 격리하여 흔들리지 않게 만들 수 있는지를 학습하는 과정이었다.</description>
     </item>
   </channel>

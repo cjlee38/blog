@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cjlee38</title>
-    <link>https://cjlee.io/blog/tags/</link>
+    <link>https://blog.cjlee.io/tags/</link>
     <description>Recent content in Tags on cjlee38</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cjlee.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cjlee.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Absorb</title>
-      <link>https://cjlee.io/blog/tags/absorb/</link>
+      <link>https://blog.cjlee.io/tags/absorb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/absorb/</guid>
+      <guid>https://blog.cjlee.io/tags/absorb/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://cjlee.io/blog/tags/git/</link>
+      <link>https://blog.cjlee.io/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/git/</guid>
+      <guid>https://blog.cjlee.io/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Clean Code</title>
-      <link>https://cjlee.io/blog/tags/clean-code/</link>
+      <link>https://blog.cjlee.io/tags/clean-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/clean-code/</guid>
+      <guid>https://blog.cjlee.io/tags/clean-code/</guid>
       <description></description>
     </item>
     <item>
       <title>OOP</title>
-      <link>https://cjlee.io/blog/tags/oop/</link>
+      <link>https://blog.cjlee.io/tags/oop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/oop/</guid>
+      <guid>https://blog.cjlee.io/tags/oop/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://cjlee.io/blog/tags/java/</link>
+      <link>https://blog.cjlee.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/java/</guid>
+      <guid>https://blog.cjlee.io/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Jmm</title>
-      <link>https://cjlee.io/blog/tags/jmm/</link>
+      <link>https://blog.cjlee.io/tags/jmm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/jmm/</guid>
+      <guid>https://blog.cjlee.io/tags/jmm/</guid>
       <description></description>
     </item>
     <item>
       <title>Layered-Architecture</title>
-      <link>https://cjlee.io/blog/tags/layered-architecture/</link>
+      <link>https://blog.cjlee.io/tags/layered-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/layered-architecture/</guid>
+      <guid>https://blog.cjlee.io/tags/layered-architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Encoding</title>
-      <link>https://cjlee.io/blog/tags/encoding/</link>
+      <link>https://blog.cjlee.io/tags/encoding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/encoding/</guid>
+      <guid>https://blog.cjlee.io/tags/encoding/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql</title>
-      <link>https://cjlee.io/blog/tags/mysql/</link>
+      <link>https://blog.cjlee.io/tags/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/mysql/</guid>
+      <guid>https://blog.cjlee.io/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Platform</title>
-      <link>https://cjlee.io/blog/tags/platform/</link>
+      <link>https://blog.cjlee.io/tags/platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/platform/</guid>
+      <guid>https://blog.cjlee.io/tags/platform/</guid>
       <description></description>
     </item>
     <item>
       <title>Profile</title>
-      <link>https://cjlee.io/blog/tags/profile/</link>
+      <link>https://blog.cjlee.io/tags/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/profile/</guid>
+      <guid>https://blog.cjlee.io/tags/profile/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://cjlee.io/blog/tags/spring/</link>
+      <link>https://blog.cjlee.io/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/spring/</guid>
+      <guid>https://blog.cjlee.io/tags/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>Kotlin</title>
-      <link>https://cjlee.io/blog/tags/kotlin/</link>
+      <link>https://blog.cjlee.io/tags/kotlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/kotlin/</guid>
+      <guid>https://blog.cjlee.io/tags/kotlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Property</title>
-      <link>https://cjlee.io/blog/tags/property/</link>
+      <link>https://blog.cjlee.io/tags/property/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/property/</guid>
+      <guid>https://blog.cjlee.io/tags/property/</guid>
       <description></description>
     </item>
     <item>
       <title>Null</title>
-      <link>https://cjlee.io/blog/tags/null/</link>
+      <link>https://blog.cjlee.io/tags/null/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cjlee.io/blog/tags/null/</guid>
+      <guid>https://blog.cjlee.io/tags/null/</guid>
       <description></description>
     </item>
   </channel>
