@@ -18,6 +18,7 @@ git push origin master
 # --- rss copy ---
 
 cp docs/sitemap.xml ../cjlee38.github.io/sitemap.xml
+cd ../cjlee38.github.io
 git add sitemap.xml
 git commit -m "update rss"
 git push origin main
