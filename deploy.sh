@@ -14,3 +14,10 @@ fi
 git commit -m "$msg"
 
 git push origin master
+
+# --- rss copy ---
+
+cp docs/index.xml ../cjlee38.github.io/index.xml
+git add index.xml
+git commit -m "update rss"
+git push origin main
