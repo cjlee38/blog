@@ -6,8 +6,15 @@
     <description>Recent content in Categories on cjlee38</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cjlee.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring</title>
+      <link>https://blog.cjlee.io/categories/spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cjlee.io/categories/spring/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Git</title>
       <link>https://blog.cjlee.io/categories/git/</link>
@@ -41,13 +48,6 @@
       <link>https://blog.cjlee.io/categories/btb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.cjlee.io/categories/btb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spring</title>
-      <link>https://blog.cjlee.io/categories/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/categories/spring/</guid>
       <description></description>
     </item>
     <item>

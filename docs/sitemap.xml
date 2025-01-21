@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.cjlee.io/tags/absorb/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cjlee.io/categories/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cjlee.io/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/tags/kafka/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/post/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/tags/reactor/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/post/graceful-kafka-receiver/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/tags/spring/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/categories/spring/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/tags/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cjlee.io/tags/absorb/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cjlee.io/tags/git/</loc>
@@ -18,12 +39,6 @@
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cjlee.io/post/git-absorb/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cjlee.io/post/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cjlee.io/tags/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cjlee.io/tags/clean-code/</loc>
@@ -75,12 +90,6 @@
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cjlee.io/tags/profile/</loc>
-    <lastmod>2022-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cjlee.io/tags/spring/</loc>
-    <lastmod>2022-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cjlee.io/categories/spring/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cjlee.io/post/spring-environment-seperation/</loc>
