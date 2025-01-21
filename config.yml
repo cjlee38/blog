@@ -1,7 +1,7 @@
 baseURL: https://blog.cjlee.io
 languageCode: en-us
 title: cjlee38
-theme: "paper"
+theme: "paperMod"
 
 enableRobotsTXT: true
 buildDrafts: false
