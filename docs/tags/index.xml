@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cjlee38</title>
-    <link>https://blog.cjlee.io/tags/</link>
+    <link>https://cjlee38.github.io/blog/tags/</link>
     <description>Recent content in Tags on cjlee38</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.cjlee.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cjlee38.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kafka</title>
-      <link>https://blog.cjlee.io/tags/kafka/</link>
+      <link>https://cjlee38.github.io/blog/tags/kafka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/kafka/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/kafka/</guid>
       <description></description>
     </item>
     <item>
       <title>Reactor</title>
-      <link>https://blog.cjlee.io/tags/reactor/</link>
+      <link>https://cjlee38.github.io/blog/tags/reactor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/reactor/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/reactor/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://blog.cjlee.io/tags/spring/</link>
+      <link>https://cjlee38.github.io/blog/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/spring/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>Absorb</title>
-      <link>https://blog.cjlee.io/tags/absorb/</link>
+      <link>https://cjlee38.github.io/blog/tags/absorb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/absorb/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/absorb/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://blog.cjlee.io/tags/git/</link>
+      <link>https://cjlee38.github.io/blog/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/git/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Clean Code</title>
-      <link>https://blog.cjlee.io/tags/clean-code/</link>
+      <link>https://cjlee38.github.io/blog/tags/clean-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/clean-code/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/clean-code/</guid>
       <description></description>
     </item>
     <item>
       <title>OOP</title>
-      <link>https://blog.cjlee.io/tags/oop/</link>
+      <link>https://cjlee38.github.io/blog/tags/oop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/oop/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/oop/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://blog.cjlee.io/tags/java/</link>
+      <link>https://cjlee38.github.io/blog/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/java/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Jmm</title>
-      <link>https://blog.cjlee.io/tags/jmm/</link>
+      <link>https://cjlee38.github.io/blog/tags/jmm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/jmm/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/jmm/</guid>
       <description></description>
     </item>
     <item>
       <title>Layered-Architecture</title>
-      <link>https://blog.cjlee.io/tags/layered-architecture/</link>
+      <link>https://cjlee38.github.io/blog/tags/layered-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/layered-architecture/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/layered-architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Encoding</title>
-      <link>https://blog.cjlee.io/tags/encoding/</link>
+      <link>https://cjlee38.github.io/blog/tags/encoding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/encoding/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/encoding/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql</title>
-      <link>https://blog.cjlee.io/tags/mysql/</link>
+      <link>https://cjlee38.github.io/blog/tags/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/mysql/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Platform</title>
-      <link>https://blog.cjlee.io/tags/platform/</link>
+      <link>https://cjlee38.github.io/blog/tags/platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/platform/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/platform/</guid>
       <description></description>
     </item>
     <item>
       <title>Profile</title>
-      <link>https://blog.cjlee.io/tags/profile/</link>
+      <link>https://cjlee38.github.io/blog/tags/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/profile/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/profile/</guid>
       <description></description>
     </item>
     <item>
       <title>Kotlin</title>
-      <link>https://blog.cjlee.io/tags/kotlin/</link>
+      <link>https://cjlee38.github.io/blog/tags/kotlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/kotlin/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/kotlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Property</title>
-      <link>https://blog.cjlee.io/tags/property/</link>
+      <link>https://cjlee38.github.io/blog/tags/property/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/property/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/property/</guid>
       <description></description>
     </item>
     <item>
       <title>Null</title>
-      <link>https://blog.cjlee.io/tags/null/</link>
+      <link>https://cjlee38.github.io/blog/tags/null/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cjlee.io/tags/null/</guid>
+      <guid>https://cjlee38.github.io/blog/tags/null/</guid>
       <description></description>
     </item>
   </channel>
