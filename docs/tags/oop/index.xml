@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OOP on cjlee38</title>
-    <link>https://cjlee38.github.io/blog/tags/oop/</link>
+    <link>https://blog.cjlee.io/tags/oop/</link>
     <description>Recent content in OOP on cjlee38</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cjlee38.github.io/blog/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cjlee.io/tags/oop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>객체지향은 정신병이다.</title>
-      <link>https://cjlee38.github.io/blog/post/oop-is-psychotic-disorder/</link>
+      <link>https://blog.cjlee.io/post/oop-is-psychotic-disorder/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://cjlee38.github.io/blog/post/oop-is-psychotic-disorder/</guid>
+      <guid>https://blog.cjlee.io/post/oop-is-psychotic-disorder/</guid>
       <description>정말 오랜만에 블로그 글을 쓰는데 첫 타이틀부터 정신병이라는 과격한 단어를 넣은 스스로가 새삼 우습기도 하다. 이 글을 읽는 사람들이 각기 다른 이유로 제목을 보고 이 글을 클릭했겠지만, 어쨌든 눈길을 끌고 이 글을 클릭하도록 유도했다는 점으로 족하다.&#xA;객체 지향과 클린 코드 최근 한 선배 개발자분과 코드에 대한 이야기를 하다가 “객체지향은 정신병이다” 라는 꽤나 과격한 표현을 들었다. 우아한테크코스 를 진행하면서 정말 ‘객체’ 를 ‘지향’했던 과거의 내가 들으면 상당히 당황스러운 말이었겠지만, 실무를 배우고 있는 현재의 나로서는 차마 대놓고 부정할 수는 없는 발언이었다.</description>
     </item>
   </channel>
