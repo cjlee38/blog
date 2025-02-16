@@ -126,14 +126,12 @@ spring:
     password: ${PASSWORD}
 ```
 
-그런데 보다보면 한 가지 이상하게 생긴 녀석이 있다. `${DATABASE_HOST}` 와 같이 생긴 녀석인데, 이는 **"내가 OS 환경변수로부터 이 정보를 가져오겠다"** 라는 의미이다.
+그런데 보다보면 `${}` 이런 형태로 값을 사용하는 부분이 있다.이는 [property placeholder](https://docs.spring.io/spring-boot/reference/features/external-config.html#features.external-config.files.property-placeholders) 라고 불리며 (혹은 interpolation), 이미 정의된 application.yml, jvm property, 혹은 system property(OS) 에서 값을 가져와 사용할 수 있다. 
 
 ![](2022-08-14-22-45-07.png)
 
-환경변수는 `~/.bash_profile` 등으로도 관리할 수 있지만, 하나의 인스턴스에 여러 프로젝트를 띄울 수도 있으므로 여기서는 직접 관리하도록 한다. 이러한 설정 방법은 아래 1.3절에서 알아본다.
-
 ### 1.2 JVM property
-: Java의 jar 파일은 다음과 같은 형태로 실행할 수 있다.
+Java의 jar 파일은 다음과 같은 형태로 실행할 수 있다.
 
 ```sh
 java -jar MY_PROJECT-0.0.1.jar

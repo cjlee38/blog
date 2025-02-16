@@ -99,7 +99,7 @@ A a = new A(new B(new C()));
 그리고 제가 생각하는 **'도메인 객체'의 composition root 가 바로 '서비스' 레이어** 이다.
 
 ### Repository
-repository 는 과연 어느 레이어에 속할까요 ? Repository 와 Dao의 차이점에 대해 조금이라도 찾아본 사람은 repository 를 도메인이라고 부른다. 왜 레포지토리는 도메인 레이어에 속할까요? 자꾸 DDD 이야기가 나와서 조금 불편한데, 에릭 에반스의 *도메인 주도 설계*에서는 레포지토리를 다음과 같이 정의한다.
+repository 는 과연 어느 레이어에 속할까 ? Repository 와 Dao의 차이점에 대해 조금이라도 찾아본 사람은 repository 를 도메인이라고 부른다. 왜 레포지토리는 도메인 레이어에 속할까? 자꾸 DDD 이야기가 나와서 조금 불편한데, 에릭 에반스의 *도메인 주도 설계*에서는 레포지토리를 다음과 같이 정의한다.
 
 > “repository is a mechanism for encapsulating storage, retrieval, and search behavior, which emulates a collection of objects.”  
 > 레포지토리는 저장, 검색 및 검색 동작을 캡슐화하는 메커니즘으로, 객체 모음을 모방한다.

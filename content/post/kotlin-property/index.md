@@ -40,7 +40,7 @@ class SomeObject {
 }
 ```
 
-`property`는 겉에서 보기에는 마치 `public` 으로 열려있는 `field` 처럼 보이지만, 내부적으로 `getter` 와 `setter` 메소드 호출을 통해 이루어진다.(The syntax for reading and writing of properties is like for fields, but property reads and writes are (usually) translated to 'getter' and 'setter' method calls.) 그리고 이러한 `getter`, `setter` 를 묶어서 `accessor`, 즉 접근자라고 부릅니다.
+`property`는 겉에서 보기에는 마치 `public` 으로 열려있는 `field` 처럼 보이지만, 내부적으로 `getter` 와 `setter` 메소드 호출을 통해 이루어진다.(The syntax for reading and writing of properties is like for fields, but property reads and writes are (usually) translated to 'getter' and 'setter' method calls.) 그리고 이러한 `getter`, `setter` 를 묶어서 `accessor`, 즉 접근자라고 부른다.
 
 하지만 `property`를 아무런 추가 작업 없이 순수하게 `getter`, `setter` 로만 사용한다면 큰 의미가 없다. 뭔가 내가 원하는대로 작업을 할 수 있어야 한다. `property` 는 다음과 같은 형태를 가지고 있다.
 
@@ -67,7 +67,7 @@ fun main() {
 
 위 코드를 보면, `Age` 클래스 내부에 `value`에 대한 값을 20으로 정의하였다. 하지만 그 값을 얻어내는 데 있어 그 값을 1 늘려서 받도록 처리하였다. 그렇기에 `age.value` 는 20 대신 21이라는 값을 얻어냄을 확인할 수 있다. 여기서 주의해서 볼 점은, `custom getter` 를 정의할 때 `field` 라는 키워드를 사용한다는 점이다.
 
-`property`가 `field`와 `accessor`를 묶어서 부른다는 점을 감안하면, `field`라는 값이 실제로 들어있는 값에 해당함을 직감할 수 있다. 엄밀하게는 공식 문서에서는 이를 `backing field` 라고 부르며, 다음과 같이 설명하다.
+`property`가 `field`와 `accessor`를 묶어서 부른다는 점을 감안하면, `field`라는 값이 실제로 들어있는 값에 해당함을 직감할 수 있다. 엄밀하게는 공식 문서에서는 이를 `backing field` 라고 부르며, 다음과 같이 설명한다.
 
 > In Kotlin, a field is only used as a part of a property to hold its value in memory. Fields cannot be declared directly. However, when a property needs a backing field, Kotlin provides it automatically. This backing field can be referenced in the accessors using the field identifier
 
