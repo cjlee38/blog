@@ -12,7 +12,7 @@ SpringBoot 환경에서 HTTP 요청을 보낼 때 주로 사용하는 client 는
 
 아직까지도 `RestTemplate`, 그리고 스프링 6 버전부터 도입된 `RestClient` 을 사용하는 경우도 많이 찾아볼수 있고, 해당 클라이언트에서 주로 사용되는 Apache HttpClient 5 버전에도 여러 옵션들이 존재하지만, 해당 내용까지 담기에는 너무 길어질 것 같아 다음에 알아보는 것으로 하고, 오늘은 `WebClient`, 즉 netty 쪽을 알아보자.
 
-## WebClient (reactor-netty) 옵션
+### WebClient (reactor-netty) 옵션
 
 webClient 에서 주로 사용하는 옵션들은 다음과 같다. (물론 netty 자체에서도 제공하는 [옵션들은 수없이 많다](https://netty.io/4.1/api/index.html?io/netty/channel/ChannelOption.html))
 
@@ -155,9 +155,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 2025-02-27 23:55:04.155 [reactor-http-kqueue-2] [INFO] my-wiretap - [cd99e5c0-1, L:/127.0.0.1:63968 ! R:localhost/127.0.0.1:8080] UNREGISTERED 
 ```
 
-`reponseTimeout` 은 body 까지 모두 전송하고 나서부터 측정을 했기 때문에 timeout 에 걸리지 않았다. 반면, `ReadTimeoutHandler` 는 body 를 전송(Mono.delay 로 body 가 생성되는 시간을 포함하여)하는 시간까지 포함했기 때문에 exception 이 발생한 것을 확인할 수 있다.
+`responseTimeout` 은 body 까지 모두 전송하고 나서부터 측정을 했기 때문에 timeout 에 걸리지 않았다. 반면, `ReadTimeoutHandler` 는 body 를 전송(Mono.delay 로 body 가 생성되는 시간을 포함하여)하는 시간까지 포함했기 때문에 exception 이 발생한 것을 확인할 수 있다.
 
-`reponseTimeout` 과 관련한 이슈는 [다음 링크](https://github.com/reactor/reactor-netty/issues/1159) 에서 확인해 볼 수 있다.
+`responseTimeout` 과 관련한 이슈는 [다음 링크](https://github.com/reactor/reactor-netty/issues/1159) 에서 확인해 볼 수 있다.
 
 ### ReadTimeoutHandler vs maxIdleTime
 
